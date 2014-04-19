@@ -1,0 +1,58 @@
+Profits are up and down
+0
+Profits are up and down
+0
+Profits are increasing
+0
+Profits are up and down
+0
+Profits are up and down
+0
+
+
+There were 4 profitable items and 1 unprofitable items in Q1
+0
+There were 4 profitable items and 1 unprofitable items in Q2
+0
+There were 5 profitable items and 0 unprofitable items in Q3
+0
+There were 5 profitable items and 0 unprofitable items in Q4
+0
+
+
+The item with the greatest profit in quarter 1 was television
+526
+The item with the greatest profit in quarter 2 was toaster
+349
+The item with the greatest profit in quarter 3 was books
+583
+The item with the greatest profit in quarter 4 was books
+500
+
+
+Product  Q1 Profits      Q2 Profits       Q3 Profits      Q4 Profits        Total Profits
+Toaster     100             349               567             437               1453
+Television  526            -112               396             394               1204
+Radio       -34             148               264             321               699
+Books       297             324               583             500               1704
+Lamps       333              45               174             219               771
+
+
+Product      Average Profit     Best Profit
+Toaster             363            567
+Television          301            526
+Radio               174            321
+Books               426            583
+Lamps               192            333
+
+
+Profits are increasing
+0
+Profits are increasing
+0
+Profits are increasing
+0
+Profits are increasing
+0
+Profits are increasing
+0
